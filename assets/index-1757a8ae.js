@@ -1,1 +1,1 @@
-import{ag as e,j as _,k as c}from"./_plugin-vue_export-helper-33be20d1.js";const t={},n={class:"box"};function o(s,a){return _(),c("div",n,"notification")}const f=e(t,[["render",o],["__scopeId","data-v-59fc564f"]]);export{f as default};
+import{ag as e,j as _,k as c}from"./plugin-vue_export-helper-33be20d1.js";const t={},n={class:"box"};function o(s,a){return _(),c("div",n,"notification")}const f=e(t,[["render",o],["__scopeId","data-v-59fc564f"]]);export{f as default};
