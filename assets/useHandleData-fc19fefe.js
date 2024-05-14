@@ -1,0 +1,1 @@
+import{J as o}from"./IconifyIcon-a624bcfa.js";import{bh as c}from"./index-b2e15df3.js";const f=(t,r,e,s="warning")=>new Promise((a,n)=>{o.confirm(`是否${e}?`,"温馨提示",{confirmButtonText:"确定",cancelButtonText:"取消",type:s,draggable:!0}).then(async()=>{if(!await t(r))return n(!1);c({type:"success",message:`${e}成功!`}),a(!0)})});export{f as u};
